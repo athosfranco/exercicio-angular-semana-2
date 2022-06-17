@@ -1,0 +1,9 @@
+.main-container {
+  margin: 5vh 10vw;
+  border: 3px dashed rgba(255, 0, 0, 0.5);
+  padding: 20px;
+}
+
+.main-container p {
+  line-height: 1.7;
+}
